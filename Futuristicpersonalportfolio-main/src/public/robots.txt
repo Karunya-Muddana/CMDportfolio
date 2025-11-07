@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://karunya-cli-os.vercel.app/sitemap.xml

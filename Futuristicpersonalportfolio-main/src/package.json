@@ -1,0 +1,47 @@
+{
+  "name": "karunya-cli-os",
+  "version": "2.0.0",
+  "description": "Cinema-grade AI-powered terminal portfolio for Karunya Muddana — Backend & AI Developer",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "motion": "^11.15.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.3"
+  },
+  "keywords": [
+    "portfolio",
+    "cli",
+    "terminal",
+    "ai",
+    "interactive",
+    "cinematic",
+    "backend-developer"
+  ],
+  "author": {
+    "name": "Karunya Muddana",
+    "email": "karunya.muddana@outlook.com",
+    "url": "https://github.com/Karunya-Muddana"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Karunya-Muddana/cli-portfolio"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  }
+}
